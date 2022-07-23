@@ -10,6 +10,7 @@ body {
   background: white;
   margin: 40px;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  justify-content: flex-end;
 }
 
 /* Main content */
@@ -138,6 +139,12 @@ body {
   padding: 40px 0px;
 }
 
+.sidebar_image {
+  text-align: center;
+  margin-left: 21px;
+  margin-top: -20px;
+}
+
 .contact-and-tech-skill-section {
   margin: 50px 0 0 40px;
 }
@@ -176,6 +183,7 @@ body {
 
 .tech-skill-item {
   color: #fb603a;
+  margin-right: 11px;
 }
 
 .tech-skill-item-text {
